@@ -1,3 +1,3 @@
 # newsWebScraper
 
-Web scraper using BeautifulSoup to provide news headlines for the day
+Web scraper used to provide front page news headlines for the day (NPR news) - built w/ BeautifulSoup
